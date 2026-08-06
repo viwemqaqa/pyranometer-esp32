@@ -1,0 +1,18 @@
+# Arduino build artefacts
+build/
+*.bin
+*.elf
+*.map
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Captured data
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
